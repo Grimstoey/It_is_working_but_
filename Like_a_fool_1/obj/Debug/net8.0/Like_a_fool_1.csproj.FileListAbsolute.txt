@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\bin\Debug\net8.0\Like_a_fool_1.exe
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\bin\Debug\net8.0\Like_a_fool_1.deps.json
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\bin\Debug\net8.0\Like_a_fool_1.runtimeconfig.json
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\bin\Debug\net8.0\Like_a_fool_1.dll
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\bin\Debug\net8.0\Like_a_fool_1.pdb
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.dll
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\refint\Like_a_fool_1.dll
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.pdb
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\Like_a_fool_1.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\It's_working_but\Like_a_fool_1\obj\Debug\net8.0\ref\Like_a_fool_1.dll
